@@ -1,0 +1,33 @@
+C:\Users\CENTRAL GAMER\Desktop\EPE2_EdwardJ_CristoferF\Servicio de Facturación\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\CENTRAL GAMER\Desktop\EPE2_EdwardJ_CristoferF\Servicio de Facturación\bin\Debug\net7.0\appsettings.json
+C:\Users\CENTRAL GAMER\Desktop\EPE2_EdwardJ_CristoferF\Servicio de Facturación\bin\Debug\net7.0\Servicio de Facturación.exe
+C:\Users\CENTRAL GAMER\Desktop\EPE2_EdwardJ_CristoferF\Servicio de Facturación\bin\Debug\net7.0\Servicio de Facturación.deps.json
+C:\Users\CENTRAL GAMER\Desktop\EPE2_EdwardJ_CristoferF\Servicio de Facturación\bin\Debug\net7.0\Servicio de Facturación.runtimeconfig.json
+C:\Users\CENTRAL GAMER\Desktop\EPE2_EdwardJ_CristoferF\Servicio de Facturación\bin\Debug\net7.0\Servicio de Facturación.dll
+C:\Users\CENTRAL GAMER\Desktop\EPE2_EdwardJ_CristoferF\Servicio de Facturación\bin\Debug\net7.0\Servicio de Facturación.pdb
+C:\Users\CENTRAL GAMER\Desktop\EPE2_EdwardJ_CristoferF\Servicio de Facturación\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\CENTRAL GAMER\Desktop\EPE2_EdwardJ_CristoferF\Servicio de Facturación\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\CENTRAL GAMER\Desktop\EPE2_EdwardJ_CristoferF\Servicio de Facturación\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\CENTRAL GAMER\Desktop\EPE2_EdwardJ_CristoferF\Servicio de Facturación\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\CENTRAL GAMER\Desktop\EPE2_EdwardJ_CristoferF\Servicio de Facturación\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\CENTRAL GAMER\Desktop\EPE2_EdwardJ_CristoferF\Servicio de Facturación\obj\Debug\net7.0\Servicio de Facturación.csproj.AssemblyReference.cache
+C:\Users\CENTRAL GAMER\Desktop\EPE2_EdwardJ_CristoferF\Servicio de Facturación\obj\Debug\net7.0\Servicio de Facturación.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CENTRAL GAMER\Desktop\EPE2_EdwardJ_CristoferF\Servicio de Facturación\obj\Debug\net7.0\Servicio de Facturación.AssemblyInfoInputs.cache
+C:\Users\CENTRAL GAMER\Desktop\EPE2_EdwardJ_CristoferF\Servicio de Facturación\obj\Debug\net7.0\Servicio de Facturación.AssemblyInfo.cs
+C:\Users\CENTRAL GAMER\Desktop\EPE2_EdwardJ_CristoferF\Servicio de Facturación\obj\Debug\net7.0\Servicio de Facturación.csproj.CoreCompileInputs.cache
+C:\Users\CENTRAL GAMER\Desktop\EPE2_EdwardJ_CristoferF\Servicio de Facturación\obj\Debug\net7.0\Servicio de Facturación.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\CENTRAL GAMER\Desktop\EPE2_EdwardJ_CristoferF\Servicio de Facturación\obj\Debug\net7.0\Servicio de Facturación.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CENTRAL GAMER\Desktop\EPE2_EdwardJ_CristoferF\Servicio de Facturación\obj\Debug\net7.0\staticwebassets\msbuild.Servicio de Facturación.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\CENTRAL GAMER\Desktop\EPE2_EdwardJ_CristoferF\Servicio de Facturación\obj\Debug\net7.0\staticwebassets\msbuild.build.Servicio de Facturación.props
+C:\Users\CENTRAL GAMER\Desktop\EPE2_EdwardJ_CristoferF\Servicio de Facturación\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Servicio de Facturación.props
+C:\Users\CENTRAL GAMER\Desktop\EPE2_EdwardJ_CristoferF\Servicio de Facturación\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Servicio de Facturación.props
+C:\Users\CENTRAL GAMER\Desktop\EPE2_EdwardJ_CristoferF\Servicio de Facturación\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\CENTRAL GAMER\Desktop\EPE2_EdwardJ_CristoferF\Servicio de Facturación\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\CENTRAL GAMER\Desktop\EPE2_EdwardJ_CristoferF\Servicio de Facturación\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\CENTRAL GAMER\Desktop\EPE2_EdwardJ_CristoferF\Servicio de Facturación\obj\Debug\net7.0\scopedcss\bundle\Servicio de Facturación.styles.css
+C:\Users\CENTRAL GAMER\Desktop\EPE2_EdwardJ_CristoferF\Servicio de Facturación\obj\Debug\net7.0\Servicio de Facturación.csproj.CopyComplete
+C:\Users\CENTRAL GAMER\Desktop\EPE2_EdwardJ_CristoferF\Servicio de Facturación\obj\Debug\net7.0\Servicio de Facturación.dll
+C:\Users\CENTRAL GAMER\Desktop\EPE2_EdwardJ_CristoferF\Servicio de Facturación\obj\Debug\net7.0\refint\Servicio de Facturación.dll
+C:\Users\CENTRAL GAMER\Desktop\EPE2_EdwardJ_CristoferF\Servicio de Facturación\obj\Debug\net7.0\Servicio de Facturación.pdb
+C:\Users\CENTRAL GAMER\Desktop\EPE2_EdwardJ_CristoferF\Servicio de Facturación\obj\Debug\net7.0\Servicio de Facturación.genruntimeconfig.cache
+C:\Users\CENTRAL GAMER\Desktop\EPE2_EdwardJ_CristoferF\Servicio de Facturación\obj\Debug\net7.0\ref\Servicio de Facturación.dll
